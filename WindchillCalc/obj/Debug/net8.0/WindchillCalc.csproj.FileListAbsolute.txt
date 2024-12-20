@@ -1,0 +1,15 @@
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/bin/Debug/net8.0/WindchillCalc
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/bin/Debug/net8.0/WindchillCalc.deps.json
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/bin/Debug/net8.0/WindchillCalc.runtimeconfig.json
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/bin/Debug/net8.0/WindchillCalc.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/bin/Debug/net8.0/WindchillCalc.pdb
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/obj/Debug/net8.0/WindchillCalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/obj/Debug/net8.0/WindchillCalc.AssemblyInfoInputs.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/obj/Debug/net8.0/WindchillCalc.AssemblyInfo.cs
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/obj/Debug/net8.0/WindchillCalc.csproj.CoreCompileInputs.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/obj/Debug/net8.0/WindchillCalc.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/obj/Debug/net8.0/refint/WindchillCalc.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/obj/Debug/net8.0/WindchillCalc.pdb
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/obj/Debug/net8.0/WindchillCalc.genruntimeconfig.cache
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/obj/Debug/net8.0/ref/WindchillCalc.dll
+/Users/shakurjr/Desktop/projects/schoolprojects/c#/lobarationer/labb2/WindchillCalc/WindchillCalc/obj/Debug/net8.0/WindchillCalc.sourcelink.json
